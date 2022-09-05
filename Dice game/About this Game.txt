@@ -1,12 +1,12 @@
 Hello  guys🖐
 
-This Dice Game work as follows -
+This Dice Game works as follows -
 
 1. - The game will start from Player-1,
 
 2. -  Player-1 will roll the dice by clicking 'ROLL THE DICE ' button, 
 
-3. - Dice can show random no. between 1 - 6 , if it's a 1 then  the player will be switch,
+3. - Dice can show random no. between 1 - 6 , if it's a 1 then  the player will be switchs,
 
 4. - Number other then 1 will be added to 'CURRENT' and a player can hold that CURRENT number,
 
